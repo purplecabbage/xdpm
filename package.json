@@ -54,7 +54,7 @@
     "/yarn.lock"
   ],
   "oclif": {
-    "commands": "./src/commands",
+    "commands": "./commands",
     "bin": "./bin/run",
     "devPlugins": [
       "@oclif/plugin-help"
