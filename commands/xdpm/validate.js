@@ -18,7 +18,7 @@ const path = require('path')
 const getPluginMetadata = require('../../lib/getPluginMetadata')
 const validate = require('../../lib/validate')
 
-const { Command, flags } = require('@oclif/command')
+const {Command, flags} = require('@oclif/command')
 
 /**
  * validates one or more plugins
