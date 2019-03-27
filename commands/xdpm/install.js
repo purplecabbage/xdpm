@@ -114,10 +114,10 @@ InstallCommand.description = `Copy one or more plugins in a develoment folder in
 Install a plugin in development mode
 `
 
-// InstallCommand.args = [{
-//   name: 'srcPath',
-//   default: '.'
-// }]
+InstallCommand.args = [{
+  name: 'srcPath',
+  default: '.'
+}]
 
 InstallCommand.strict = false
 
